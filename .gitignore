@@ -1,0 +1,24 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+
+# Academic report and presentation
+*Project_Report*.docx
+*Project_Report*.pdf
+*Project-Report*.docx
+*Project-Report*.pdf
+*Presentation*.pptx
+*Presentation*.pdf
+
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Oversized model - keep locally
+/models/dataset2_random_forest.joblib
+# Duplicate notebook backup
+/notebooks/telecom_churn_prediction - Copy.ipynb

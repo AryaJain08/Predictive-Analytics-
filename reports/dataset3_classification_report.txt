@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      Stayed     0.9573    0.9836    0.9703       730
+     Churned     0.8800    0.7333    0.8000       120
+
+    accuracy                         0.9482       850
+   macro avg     0.9187    0.8584    0.8851       850
+weighted avg     0.9464    0.9482    0.9462       850

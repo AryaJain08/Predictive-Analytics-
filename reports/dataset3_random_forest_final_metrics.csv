@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Customer Churn Prediction 2020,Random Forest,0.9482352941176471,0.88,0.7333333333333333,0.8,0.8886643835616438
